@@ -1,6 +1,7 @@
 ## alexandre!
 # 💫 About Me:
-Atualmente estou estudando tecnologia pela online (dio) e fazendo muitos desafios e aprimorarando,praticando estrategias sobre programação e focado em analise de dados !<br>Minha profissão e técnico em usinagem ! 
+Atualmente estou estudando tecnologia online (dio) e fazendo muitos desafios e aprimorarando,praticando estrategias sobre programação e focado em analise de dados !<br>Minha profissão e técnico em usinagem ! 
+Estou acioso para intgrar em um estagio ou trabalhar na area de tie por em pratica todo o conhecimneto que estou desenvolvendo.
 
 
 ## 🌐 Socials:
